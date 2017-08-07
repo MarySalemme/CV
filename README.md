@@ -2,29 +2,30 @@
 
 #### [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an enthusiastic **Full Stack Junior Developer**. I love to learn new things and constantly challenge myself and that is the reason why I started looking into web development.  
+My background is in the translation industry, as a video-game QA tester first and then as a Project Manager, in which I developed my analytical and organizational skills.   
+I am looking for a role where I can keep learning how to make amazing things, possibly in a company that values pair programming and TDD.
 
 ##  <a name="projects">Projects</a>
-For a complete list, [visit my GitHub](https://github.com/MarySalemme).
+| Project   | Description | Technologies |
+|---        |---         |---           |
+|[MakersBnB](https://github.com/MarySalemme/makersbnb)|Our first team project. I'm really proud of this project as we worked really hard on collaboration. We did our best to apply XP values, in particular by providing constant feedback and `communicating as much as possible to avoid duplication of efforts | Ruby, Rspec/Capybara|
+|[Instagram](https://github.com/MarySalemme/instagram-challenge)|An Instagram clone in which I managed to create a Rails app using a file uploader and user authentication in one day and a half|Ruby on Rails, RSpec/Capybara|
+
 
 ##  <a name="skills">Skills</a>
 
-#### This Skill
+#### Organization and analytical thinking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My previous working experience helped me build my organizational skills and analytical thinking. When working on a new project I always do my best to gather as much information as possible to have a clear view of what needs to be done. I try to look at solutions from different points of view so to take a thought out decision.
+In the background, I always keep an eye on deadlines and production times, which help me manage workload and stakeholder expectations.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication
 
-#### Another Skill
+I understand the vital importance of clear communication in a collaborative environment. Because of this, I try to be as responsive and clear as possible, so to manage expectation and avoid duplication of efforts. This could be done by a simple email to the client, explaining timelines and production challenges, or by talking through a pairing session, keeping your pair partner engaged and aware of your way of thinking.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Quick learning
+Other than achieving what seemed impossible to me only a few months ago (that is, learning how to build a program from scratch using different languages in only 12 weeks), as a Project Manager I became responsible for the company's top client after only 5 months in the job and no previous PM experience. I can quickly pick up new processes and concepts and, as soon as I become comfortable with them, I work hard to reach my targets.
 
 ##  <a name="education">Education</a>
 
