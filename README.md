@@ -9,7 +9,7 @@ I am looking for a role where I can keep learning how to make amazing things, po
 ##  <a name="projects">Projects</a>
 | Project   | Description | Technologies |
 |---        |---         |---           |
-|[MakersBnB](https://github.com/MarySalemme/makersbnb)|Our first team project. I'm really proud of this project as we worked really hard on collaboration. We did our best to apply XP values, in particular by providing constant feedback and `communicating as much as possible to avoid duplication of efforts | Ruby, Rspec/Capybara|
+|[MakersBnB](https://github.com/MarySalemme/makersbnb)|Our first team project. I'm really proud of this project as we worked really hard on collaboration. We did our best to apply XP values, in particular by providing constant feedback and communicating as much as possible to avoid duplication of efforts | Ruby, Rspec/Capybara|
 |[Instagram](https://github.com/MarySalemme/instagram-challenge)|An Instagram clone in which I managed to create a Rails app using a file uploader and user authentication in one day and a half|Ruby on Rails, RSpec/Capybara|
 
 
