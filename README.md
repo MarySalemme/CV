@@ -9,8 +9,10 @@ I am looking for a role where I can keep learning how to make amazing things, po
 ##  <a name="projects">Projects</a>
 | Project   | Description | Technologies |
 |---        |---         |---           |
+|[Zombie Paint](https://github.com/MarySalemme/zombie-paint)|The project I've worked on in the final two weeks at makers. The aims of this project were to create a clone of MS Paint, write clean code using the TDD approach and keep learning, and we successfully reached all our objectives!|Javascript, HTML Canvas, Node/Express, Mocha/Chai, Canteen|
 |[MakersBnB](https://github.com/MarySalemme/makersbnb)|Our first team project. I'm really proud of this project as we worked really hard on collaboration. We did our best to apply XP values, in particular by providing constant feedback and communicating as much as possible to avoid duplication of efforts | Ruby, Rspec/Capybara|
 |[Instagram](https://github.com/MarySalemme/instagram-challenge)|An Instagram clone in which I managed to create a Rails app using a file uploader and user authentication in one day and a half|Ruby on Rails, RSpec/Capybara|
+
 
 
 ##  <a name="skills">Skills</a>
@@ -37,10 +39,12 @@ _Junior Web Developer_
 - Curiosity and hungry passion for code
 - Independent learning and problem-solving
 - Pair programming
-- OOP, TDD, MVC, DDD
+- Test Driven Development
 - Agile/XP
+- Software Craftsmanship
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+
 
 #### L'Orientale University, Naples (March 2014)
 _BA in Foreign Languages and Literatures_
