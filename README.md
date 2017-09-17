@@ -10,7 +10,7 @@ I am looking for a role where I can keep learning how to make amazing things, po
 | Project   | Description | Technologies |
 |---        |---         |---           |
 |[Zombie Paint](https://github.com/MarySalemme/zombie-paint)|The project I've worked on in the final two weeks at Makers. The aims for this project were to create a clone of MS Paint, write clean code using the TDD approach and keep learning, and we successfully reached all our objectives!|Javascript, HTML Canvas, Node/Express, Mocha/Chai, Canteen|
-|[Sarca-therapist](https://github.com/MarySalemme/sarca-terapist)|It started as a wannabe Eliza clone, it ended up becoming a therapist that tells you to drink more when you're in trouble. We had fun!|Javascript, Jasmine, jQuery|
+|[Sarca-therapist](https://github.com/MarySalemme/sarca-therapist)|It started as a wannabe Eliza clone, it ended up becoming a therapist that tells you to drink more when you're in trouble. We had fun!|Javascript, Jasmine, jQuery|
 |[MakersBnB](https://github.com/MarySalemme/makersbnb)|Our first team project. I'm really proud of this project as we worked really hard on collaboration. We did our best to apply XP values, in particular by providing constant feedback and communicating as much as possible to avoid duplication of efforts | Ruby, Rspec/Capybara|
 |[Instagram](https://github.com/MarySalemme/instagram-challenge)|An Instagram clone in which I managed to create a Rails app using a file uploader and user authentication in one day and a half|Ruby on Rails, RSpec/Capybara|
 
