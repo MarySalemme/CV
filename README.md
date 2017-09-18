@@ -4,7 +4,7 @@
 
 I am an enthusiastic **Full Stack Junior Developer**. I love to learn new things and constantly challenge myself and that is the reason why I started looking into web development.  
 My background is in the translation industry, as a video-game QA tester first and then as a Project Manager, in which I developed my analytical and organizational skills.   
-I am looking for a role where I can keep learning how to make amazing things, possibly in a company that values pair programming and TDD.
+I am looking for a role where I can keep learning how to make amazing things, ideally in a company that values pair programming and TDD.
 
 ##  <a name="projects">Projects</a>
 | Project   | Description | Technologies |
